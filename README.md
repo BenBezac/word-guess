@@ -1,3 +1,6 @@
+## Version simplifié du pendu
+Un mot généré aléatoirement à trouver !
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
